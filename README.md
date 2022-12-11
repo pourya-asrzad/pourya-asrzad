@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-<h1 style="color:"red";">text </h1>
+<h1 style="margin-left:2rem;">text </h1>
 <!---
 puria-asr/puria-asr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
