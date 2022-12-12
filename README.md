@@ -1,3 +1,3 @@
 <div align="center">
-<h2 style='align:center'>Hey I'm Pouria </h2>
+<h2 color="red">Hey I'm Pouria </h2>
 </div>
