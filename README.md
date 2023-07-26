@@ -1,5 +1,5 @@
 <div align="center">
-<h2 >Hey I'm Pouria 👋</h2>
+<h2 >Hey there! I'm Pourya.</h2>
  
  
  <h3 align="center">I'm a developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
