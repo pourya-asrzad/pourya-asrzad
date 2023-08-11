@@ -2,7 +2,7 @@
 <h2 >Hey there! I'm Pourya.</h2>
  
  
- <h3 > A passionate front end developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
+ <h3 > A passionate front end developer. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
  
 
  
