@@ -13,7 +13,7 @@
 <div align="center">
  <h1  align="center"> my github Stats</h1>
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pourya-asrzad"/></br>
-  <img src="https://github-readme-stats.vercel.app/api?username=pourya-asrzad&show_icons=true&include_all_commits=true" alt="hossein heydari's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pourya-asrzad&show_icons=true&include_all_commits=true" alt="pourya Asrzad GitHub stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pourya-asrzad&layout=compact&langs_count=12"/>
  
 
