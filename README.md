@@ -12,7 +12,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=pourya-asrzad&theme=react&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=pourya-asrzad&theme=react&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pourya-asrzad&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact)<br/>
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=pourya-asrzad"/></br>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=pourya-asrzad&theme=radical&no-frame=false&no-bg=false&margin-w=4)
