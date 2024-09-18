@@ -1,4 +1,4 @@
-
+ 
 ##  Hey there! I'm Pourya 
  As an experienced Front-End Developer with a background in Python, I leverage my two years of expertise in web development to contribute effectively to diverse projects. Proficient in TypeScript and React, I've successfully implemented solutions for Content Management System (CMS) platforms. My skill set extends to Python, adding versatility to my capabilities. With a proven track record, I've achieved commendable results in sectors such as e-commerce and finance. Working with industry-leading teams has further honed my skills and insights, providing valuable experience that enriches my professional journey.
 
